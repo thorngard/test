@@ -1,1 +1,1 @@
-[radar.pdf](http://thorngard.github.io/test/docs/radar.pdf)
+[radar.pdf](http://thorngard.github.io/test/radar.pdf)
